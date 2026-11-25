@@ -8,7 +8,7 @@ I'm always open to work with people on public projects as long as environment is
 - [Nihon-Vending](https://github.com/Retektor/Nihon-Vending) - Japanese vending machines database written on ASP.NET + NHibernate (C#)
 - [5Tyan](https://github.com/Retektor/5Tyan) - Forum written on Django (Python)
 
-# Nerd has hobbies?
+# Simpleton has hobbies?
 Yes, currently I'm engaged with music production, learning Japanese and astronomy. Maybe one day here there'll be more projects related to those fields, who knows?
 
 # Contact me
