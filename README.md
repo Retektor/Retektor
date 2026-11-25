@@ -13,5 +13,5 @@ Yes, currently I'm engaged with music production, learning Japanese and astronom
 
 # Contact me
 If you ever want something from me, you can find me here:
-- Email: retektor77@gmail.com / zhenya.volokitin@list.ru
+- Email: retektor77@gmail.com (EN) / zhenya.volokitin@list.ru (RU)
 - Telegram: [https://t.me/MrRetektor](https://t.me/MrRetektor)
